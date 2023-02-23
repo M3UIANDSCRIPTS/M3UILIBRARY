@@ -1,0 +1,4 @@
+
+local M3UILIBRARY = Instance.new("ScreenGui")
+M3UILIBRARY.Name = "M3UILIBRARY"
+M3UILIBRARY.Parent = game.StarterGui
